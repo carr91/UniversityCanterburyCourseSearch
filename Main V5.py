@@ -3,7 +3,8 @@ from bs4 import BeautifulSoup
 import csv
 import re
 
-search_terms = ["neural Network", "neural Networks"]
+search_terms = ["Neural Network", "Deep Learning", "AI Ethics", "Machine Learning", "Computer Vision", "Natural Language Processing", "Reinforcement Learning", "AI Safety", "Generative Models", "Artificial General Intelligence"]
+
 
 def clean_text(text):
     return re.sub(r'\s+', ' ', text).strip()
