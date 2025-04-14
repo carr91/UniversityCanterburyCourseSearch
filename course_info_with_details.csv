@@ -1,0 +1,66 @@
+Course Code,Course Title,Credits,Other Info,Restrictions,Equivalents,Contact Person
+DISC101,Storytelling for the Digital Screen,15 points,DISC101-25S1 (C) Semester One 2025,,,Hamuera Kahi
+EDUC102,Child and Adolescent Development,15 points,EDUC102-25S1 (C) Semester One 2025,"TEDU110, AKOE171",TEDU110,
+DIGI102/PHIL137,"Big Data, Artificial Intelligence and Ethics",15 points,DIGI102-25S1 (C) Semester One 2025/PHIL137-25S1 (C) Semester One 2025,"PHIL137, POLS137, DIGI102","PHIL137, POLS137, DIGI102",Jack Copeland
+SPSC114,The Art and Science of Human Communication,15 points,SPSC114-25S1 (C) Semester One 2025,,,
+DIGI202/PHIL235/DIGI302,"Cyberspace, Cyborgs, and the Meaning of Life",15 points,DIGI202-25S2 (C) Semester Two 2025/PHIL235-25S2 (C) Semester Two 2025/DIGI302-25S2 (C) Semester Two 2025,,"DIGI302, PHIL235, PHIL335, DIGI202",
+EDUC206,Education and Society: Ideals and Realities,15 points,EDUC206-25S2 (C) Semester Two 2025,,,
+PSYC207,Developmental Psychology,15 points,PSYC207-25S1 (C) Semester One 2025,"PSYC105, PSYC106",,
+PSYC208,Cognition,15 points,PSYC208-25S2 (C) Semester Two 2025,"PSYC105, PSYC106",,
+PSYC215,Introductory Cognitive and Behavioural Neuroscience,15 points,PSYC215-25S2 (C) Semester Two 2025,"PSYC105, PSYC107, ARTS102, PSYC106",,
+MATH220,Discrete Mathematics and Cryptography,15 points,MATH220-25S1 (C) Semester One 2025,"EMTH118, EMTH119, MATH120, MATH103, MATH102, MATH199",,Brendan Creutz
+LING221/PSYC221,Psychology of Language,15 points,LING221-25S1 (C) Semester One 2025/PSYC221-25S1 (C) Semester One 2025,"PSYC105, LING101, PSYC107","PSYC221, LING221",Heeju Hwang
+PHIL250/COSC260,Turing: From the Computer Revolution to the Philosophy of AI,15 points,PHIL250-25S2 (C) Semester Two 2025/COSC260-25S2 (C) Semester Two 2025,MATH110,"COSC260, PHIL250",
+PROD251,Human Centred Design Methods for Interactive Digital Products,15 points,PROD251-25S1 (C) Semester One 2025,PROD151,,Wendy Zhang
+PHIL252,Philosophical Issues in Cognitive Science and AI,15 points,PHIL252-25S1 (C) Semester One 2025,,,
+SPSC262,Neuroscience of Swallowing and Communication,15 points,SPSC262-25S1 (C) Semester One 2025,SPSC667,,Tracy Melzer
+DIGI301/ENGL345,Close to the machine: digital literatures from the avant-garde to AI,30 points,DIGI301-25S2 (C) Semester Two 2025/ENGL345-25S2 (C) Semester Two 2025,,"ENGL345, DIGI301",Christopher Thomson
+SENS301,"Sustainability Transitions, Transformations and Agents of Change",30 points,SENS301-25S1 (C) Semester One 2025,SENS201,,"Language, Social and Political Sciences"
+DATA305/LLAW305,"Legal, Regulatory, and Policy Considerations Around AI Technologies",15 points,DATA305-25S1 (C) Semester One 2025/LLAW305-25S1 (C) Semester One 2025,LAWS101,"DATA416, DATA305",Olivia Erdelyi
+ECON314,"Economic Analysis of ""Big Data""",15 points,ECON314-25S2 (C) Semester Two 2025,"ECON213, ECON214, ECON105",,Tom Coupe
+PROD323,Game Engines and Artificial Intelligence,15 points,PROD323-25S1 (C) Semester One 2025,PROD223,,Thammathip Piumsomboon
+PHIL335,"Cyberspace, Cyborgs and the Meaning of Life",15 points,PHIL335-25S2 (C) Semester Two 2025,,"DIGI302, PHIL235, DIGI202",
+COSC362,Introduction to Cybersecurity,15 points,COSC362-25S2 (C) Semester Two 2025,"MATH324, MATH220, COSC264",,Mengmeng Ge
+COSC367,Artificial Intelligence,15 points,COSC367-25S2 (C) Semester Two 2025,COSC262,,Kourosh Neshatian
+PSYC373,Neuroscience and Neurological Disorders,15 points,PSYC373-25S1 (C) Semester One 2025,"PSYC215, PSYC206",,John Dalrymple-Alford
+PSYC379,Introduction to Psychopathology,15 points,PSYC379-25S1 (C) Semester One 2025,PSYC206,,
+PSYC381,Applied Neuroscience: Brain Imaging,15 points,PSYC381-25S2 (C) Semester Two 2025,"PSYC215, PSYC206",PSYC373,
+PSYC385,"Human Factors: The Forces that Shape Behaviour with Products, Technology, and Systems",15 points,PSYC385-25S1 (C) Semester One 2025,"PSYC208, PSYC206, PSYC209, PSYC213","PSYC208, PSYC209, PSYC213",
+SENG401,Software Engineering III,15 points,SENG401-25S1 (C) Semester One 2025,"SENG301, SENG302",,Etienne Borde
+COSC401,Machine Learning,15 points,COSC401-25S1 (C) Semester One 2025,"EMTH117, COSC367, MATH101, STAT101, MATH110",,Kourosh Neshatian
+TRIN403,Translation in the digital era: tools and practices,30 points,TRIN403-25S1 (C) Semester One 2025,,LANC403,Wladimir Padilla Silva
+ENCN404,Special Topic: Modern Modelling Practices for Civil Engineering,15 points,ENCN404-25S1 (C) Semester One 2025,,,David Dempsey
+ENCN405,Ecologically Engineered Systems,15 points,ENCN405-25S1 (C) Semester One 2025,"ENCI199, EMTH210, ENCN281, ENCN231, ENCN213, ENCN242, ENCN205, ENCN253, ENCN221, ENCN201",,Aisling O'Sullivan
+SOCI406,"Food Systems, Sustainability & Social Change",30 points,SOCI406-25S2 (C) Semester Two 2025,,,"Language, Social and Political Sciences"
+PSYC409,Special Topic: Neurobiology of Higher Cognition,15 points,PSYC409-25S2 (C) Semester Two 2025,,,"School of Psychology, Speech and Hearing"
+LING410,Variation and Theory,30 points,LING410-25S1 (C) Semester One 2025,,,
+PSYC416,Cognitive Psychology,15 points,PSYC416-25S2 (C) Semester Two 2025,PSYC208,PSYC340,Ewald Neumann
+DATA416,Contemporary Issues in Data Science,15 points,DATA416-25S1 (C) Semester One 2025,,,
+COSC420,Intelligent Tutoring Systems,15 points,COSC420-25S1 (C) Semester One 2025,,,Tanja Mitrovic
+DATA420,Scalable Data Science,15 points,DATA420-25S1 (C) Semester One 2025 DATA420-25S2 (C) Semester Two 2025,,,
+COSC421,Advanced Topics in Security,15 points,COSC421-25S1 (C) Semester One 2025,COSC362,,Richard Green
+PHIL424/PHIL425/COSC443,Ethics of Artificial Intelligence,30 points,PHIL424-25S2 (C) Semester Two 2025/PHIL425-25S2 (C) Semester Two 2025/COSC443-25S2 (C) Semester Two 2025,,"PHIL424, COSC443, PHIL425",
+DATA425,Foundations of Deep Learning,15 points,DATA425-25S1 (C) Semester One 2025,,DATA473,Varvara Vetrova
+COSC428,Computer Vision,15 points,COSC428-25S1 (C) Semester One 2025,"ENEL300, ENMT301",,Richard Green
+COSC440,Deep Learning,15 points,COSC440-25S1 (C) Semester One 2025,"ENMT301, COSC122, ENEL301, ENEL300, COSC262",,James Atlas
+PSYC442,Clinical Practice Guidelines and Introduction to Cognitive Behaviour Assessment,30 points,PSYC442-25S1 (C) Semester One 2025,,,Rikki Thompson
+PSYC443,Cognitive Behaviour Therapy Case Conceptualisation and Intervention,30 points,PSYC443-25S2 (C) Semester Two 2025,,,Rikki Thompson
+ENEL445,Applied Engineering Optimisation,15 points,ENEL445-25S1 (C) Semester One 2025,"ENEL320, EMTH210, EMTH211, ENEL321, ENME301",,Jeremy Watson
+PSYC447,Frontiers of Cognitive Behaviour Therapy II,30 points,PSYC447-25W (C) Whole Year 2025,,,Amanda Baird
+FORE448,Advanced Remote Sensing in Forestry and Natural Resource Management,15 points,FORE448-25S2 (C) Semester Two 2025,FORE342,,Vega Xu
+SPSC461/SPSC675,Evidence-based Case Integration in the Aotearoa Context,15 points,SPSC461-25S2 (C) Semester Two 2025/SPSC675-25S2 (C) Semester Two 2025,"SPSC320, SPSC369, SPSC363","SPSC675, SPSC461",Jayne Newbury
+COSC478/COSC471/DATA473,Special Topic,15 points,COSC478-25S2 (C) Semester Two 2025/COSC471-25S1 (C) Semester One 2025/DATA473-25S2 (C) Semester Two 2025,,,"Mengmeng Ge, Trevor Nesbit, Alex Gavryushkin"
+PSYC480,Special Topic: Computational Contemplative-Neuroscience,15 points,PSYC480-25S1 (C) Semester One 2025,,,Peyman Zawar-Reza
+PSYC486,Special Topic: Computational Methods in Psychological Science,15 points,PSYC486-25S2 (C) Semester Two 2025,,,Kong Meng Liew
+ENME492/ENME692,Industry 4.0: Intelligent design and manufacturing,15 points,ENME492-25S1 (C) Semester One 2025/ENME692-25S1 (C) Semester One 2025,"EMTH210, ENME215, ENME221, ENMT301, ENME202, EMTH271, ENME207, ENME301, ENME311, ENME201, ENME203","ENME692, ENME492","Yilei Zhang, Mechanical Engineering"
+ENCI604,Special Topic: Applied Modelling and AI,15 points,ENCI604-25S1 (C) Semester One 2025,COSC131,ENCN404,David Dempsey
+CFPY612,Year 1 Practicum and Skills Training,45 points,CFPY612-25W (C) Whole Year 2025,,CFPY501,Katie McTaggart
+ILAP613,Advanced Principles of Public International Law,15 points,ILAP613-25S1 (C) Semester One 2025,,,Natalie Baird
+INFO621,Artificial Intelligence (AI) in Business,15 points,INFO621-25S1 (C) Semester One 2025,,,Nelly Todorova
+INFO633,Knowledge Management,15 points,INFO633-25S1 (C) Semester One 2025 - Not offered For further information see INFO633 course details,,,Nelly Todorova
+ILAP640,Dissertation,60 points,ILAP640-25CY (C) Cross Year 2025 ILAP640-25FY (C) Full Year (February to February) 2025,,,
+PSYC651,Psychotherapeutic Methods,30 points,PSYC651-25W (C) Whole Year 2025,,,Janet Carter
+MFIN674,Financial Decision Making,15 points,MFIN674-25S1 (C) Semester One 2025,"MFIN602, MBAZ604, MFIN601",,Moritz Wagner
+COSC681,AI Project,60 points,COSC681-25A (C) Approved Start 2025,,,Richard Green
+ENCM682,Research Project,30 points,ENCM682-25A (C) Approved Start 2025,,,Civil and Natural Resources Engineering
+LAWS690,LLM Thesis,120 points,LAWS690-25A (C) Approved Start 2025,,,Faculty of Law
