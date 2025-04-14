@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import csv
 import re
 
-search_terms = ["Cyber","genAI", "llm", "deep learning", "Artificial Intelligence", "artificial intelligence", "Neural Network", "Deep Learning", "AI Ethics", "Machine Learning", "Computer Vision", "Natural Language Processing", "Reinforcement Learning", "AI Safety", "Generative Models", "Artificial General Intelligence"]
+search_terms = ["Cognitive", "generative", "large language model","Cyber","genAI", "llm", "deep learning", "Artificial Intelligence", "artificial intelligence", "Neural Network", "Deep Learning", "AI Ethics", "Machine Learning", "Computer Vision", "Natural Language Processing", "Reinforcement Learning", "AI Safety", "Generative Models", "Artificial General Intelligence"]
 
 
 def clean_text(text):
